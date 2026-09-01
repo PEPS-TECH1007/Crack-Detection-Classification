@@ -2,5 +2,6 @@ streamlit
 torch
 torchvision
 Pillow
-huggingface_hub
+huggingface-hub
 ultralytics
+opencv-python-headless
